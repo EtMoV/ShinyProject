@@ -1,2 +1,3 @@
-# ShinyProject
-Project r + shiny framework (master MIAGE)
+# ShinyProject (MASTER 2 MIAGE)
+Project r + shiny framework
+
